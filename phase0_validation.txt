@@ -1,0 +1,46 @@
+
+File: ../team_repos/ElectionSys06/voters6.txt
+Number of lines 10
+Original: tiger_8@live.com*Lee*Khan*G2S 2B7
+Original: kmiller@rhyta.com*Kelly*Miller*J1S4B9
+Original: lybeloxe-7964@yopmail.com*Larry*Loxe*A2P 1Z8
+Original: igennaxyr_4118@yopmail.com*Terry*Nasau*H1Y3Y4
+Original: userName@localhost.ca*Cassandra*Kane*L1L 7G3
+Original: 50king@kind.org*Fred*King*P5T2T0
+Original: my.company1@Acompany.com*Leo*Spartus*S2G 9C0
+Original: also.myemail@company.qc.ca*Ryan*Choi*Y1T7T7
+Original: onemore@email.example.eu*Clark*Banner*R3L 4Y6
+Original: megas.xlr@omnitron.com*Shinchi*Harmada*K1J2R9
+	tiger_8@live.com Lee Khan G2S2B7
+	kmiller@rhyta.com Kelly Miller J1S4B9
+	lybeloxe-7964@yopmail.com Larry Loxe A2P1Z8
+	igennaxyr_4118@yopmail.com Terry Nasau H1Y3Y4
+	userName@localhost.ca Cassandra Kane L1L7G3
+	50king@kind.org Fred King P5T2T0
+	my.company1@Acompany.com Leo Spartus S2G9C0
+	also.myemail@company.qc.ca Ryan Choi Y1T7T7
+	onemore@email.example.eu Clark Banner R3L4Y6
+	megas.xlr@omnitron.com Shinchi Harmada K1J2R9
+
+File: ../team_repos/ElectionSys06/elections6.txt
+** File: ../team_repos/ElectionSys06/elections6.txt String  is badly formatted, doesn't contain *
+** File: ../team_repos/ElectionSys06/elections6.txt String  is badly formatted, doesn't contain *
+
+Municipal election 2017*2017*11*9*2017*12*9*G0Y*G0Y*ranked*4
+Austin Antoine
+Mihail Cerba
+Saad Khan
+Simon Guevara
+
+Provincial election 2014*2014*4*1*2014*4*30*G0X*J9Z*single*4
+Philippe Couillard
+Pauline Marois
+Francois Legault
+Andres Fontecilla
+
+Canada election 2015*2015*10*19*2015*11*4*A1A*Y0B*single*3
+Justin Trudeau
+Stephen Harper
+Thomas Mulcair
+
+Number of elections: 3

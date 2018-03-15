@@ -1,2 +1,1 @@
-# Election-Project
-Java Team project
+# Team 6 Election System
