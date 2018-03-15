@@ -1,4 +1,4 @@
-# Election System Project
+# Election System Team Project
 Team members:<p>
 Mihail Cerba<p>
 Austin Antoine <p>
